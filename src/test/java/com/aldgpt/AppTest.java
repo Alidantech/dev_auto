@@ -1,4 +1,4 @@
-package com.aldgpt.app;
+package com.aldgpt;
 
 import static org.junit.Assert.assertTrue;
 
