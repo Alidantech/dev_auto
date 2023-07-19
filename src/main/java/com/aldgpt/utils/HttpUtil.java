@@ -7,7 +7,6 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 public class HttpUtil {
-    // ...
 
     public static String postRequest(String endpointUrl, String apiKey, String requestBody) throws IOException {
         URL url = new URL(endpointUrl);

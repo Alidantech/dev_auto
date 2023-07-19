@@ -5,7 +5,7 @@ import com.aldgpt.utils.HttpUtil;
 
 public class GPTClient {
 
-      static String link = "https://api.openai.com/v1/engines/davinci-codex/completions";
+      static String link = "https://api.openai.com/v1/engines/text-davinci-003/completions";
       static String api  = "";
       private static final String CHATGPT_API_ENDPOINT = link;
       private static final String API_KEY = api;
@@ -15,3 +15,4 @@ public class GPTClient {
             return HttpUtil.postRequest(CHATGPT_API_ENDPOINT, API_KEY, requestBody);
       }
 }
+    
