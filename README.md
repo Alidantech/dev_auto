@@ -29,7 +29,7 @@ Please note that the generated code should be reviewed and modified as necessary
 
 ## License
 
-Ald-GPT is released under the MIT License. See the [LICENSE](link-to-license-file) file for more details.
+Ald-GPT is released under the IT License. See the [LICENSE](LICENSE)  file for more details.
 
 
 ## Contributions
@@ -44,6 +44,5 @@ During the development phase, you may encounter incomplete features or unexpecte
 
 Thank you for your support and understanding as we work to bring you an exceptional code generation tool.
 
----
 
 
