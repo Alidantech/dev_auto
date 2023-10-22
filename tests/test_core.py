@@ -1,5 +1,5 @@
 # ald-gpt/tests/test_core.py
-from aldgpt.core import generate_code
+from src.core import generate_code
 
 def test_generate_code():
     language = "Python"

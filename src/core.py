@@ -1,4 +1,4 @@
-# ald-gpt/aldgpt/core.py
+from flask_cors import CORS
 import connexion
 
 # Initialize the Connexion app
